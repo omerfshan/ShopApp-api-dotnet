@@ -1,61 +1,27 @@
-# ShopApp (.NET) – shop Management Application
+# ShopApp (.NET) – E-Commerce Management Application
 
-ShopApp is an  shop management application developed using ASP.NET Core with a layered architecture.  
-The project separates business logic, data access, web UI, and REST API layers to provide a scalable and maintainable structure.
+ShopApp is an e-commerce management application developed with **ASP.NET Core**, designed using a **layered architecture** approach.  
+The project provides both a **RESTful Web API** and an **MVC Web UI** for managing products, categories, carts, and order workflows.
 
 ## Features
-- Product management
-- Category management
-- Cart operations
+- Product & category management (CRUD)
+- Shopping cart operations
 - Order workflow infrastructure
+- ASP.NET Core MVC (Razor) Web UI
+- RESTful Web API
 - Entity Framework Core integration
 - Repository & Unit of Work patterns
-- ASP.NET Core MVC (Razor) Web UI
-- ASP.NET Core Web API (REST)
+- Swagger API documentation
 
-## Project Structure
-shopapp.sln
-- shopapp.entity     → Domain entities
-- shopapp.data       → EF Core, Repositories, UnitOfWork, Migrations
-- shopapp.business   → Business logic & services
-- shopapp.webui      → ASP.NET Core MVC (Razor)
-- shopapp.webapi     → ASP.NET Core REST API
+## Architecture
+The solution follows a clean layered architecture for scalability and maintainability:
+
+- **Entity**: Domain models  
+- **Data**: EF Core, DbContext, Repositories, UnitOfWork  
+- **Business**: Business logic & services  
+- **WebUI**: ASP.NET Core MVC (Razor)  
+- **WebAPI**: RESTful API endpoints  
 
 ## Technologies
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- LINQ
-- SQL Server
-- HTML / CSS / Bootstrap
+C#, ASP.NET Core, Entity Framework Core, SQL Server / SQLite, LINQ, MVC, REST API, Swagger, HTML, CSS, Bootstrap, Git
 
-## Requirements
-- .NET SDK (9)
-- SQL Server
-
-## Setup
-1. Clone repository
-git clone https://github.com/username/shopapp.git
-
-2. Restore packages
-dotnet restore
-
-3. Configure database connection
-Update the ConnectionStrings section in appsettings.json
-
-4. Apply migrations
-dotnet ef database update --project shopapp.data --startup-project shopapp.webui
-
-## Run
-Web UI:
-dotnet run --project shopapp.webui
-
-Web API:
-dotnet run --project shopapp.webapi
-
-## Notes
-- bin, obj, and .vs folders are excluded from version control
-- This project is developed for learning and portfolio purposes
-
-## License
-Educational / Portfolio project
