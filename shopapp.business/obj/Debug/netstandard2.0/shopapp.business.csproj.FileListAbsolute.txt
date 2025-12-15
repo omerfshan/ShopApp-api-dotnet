@@ -1,0 +1,15 @@
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.business.deps.json
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.business.dll
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.business.pdb
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.data.dll
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.entity.dll
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.entity.pdb
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/bin/Debug/netstandard2.0/shopapp.data.pdb
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.csproj.AssemblyReference.cache
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.AssemblyInfo.cs
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp..684EB7D7.Up2Date
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.dll
+/Users/omerfaruksahan/Desktop/shopapp/shopapp.business/obj/Debug/netstandard2.0/shopapp.business.pdb
